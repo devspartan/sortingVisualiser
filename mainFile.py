@@ -122,7 +122,7 @@ def moveRectangleMergeSort(list, i, j, startx, gapFactor, color = (255, 0, 0)):
                 pygame.quit()
                 quit()
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_LEFT:
+                if event.key == pygame.K_SPACE:
                     pauseSorting()
 
         mouseOperations()
@@ -142,7 +142,7 @@ def moveRectangleQuickBubbleHeapInsertion(list, i, j):
                 pygame.quit()
                 quit()
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_LEFT:
+                if event.key == pygame.K_SPACE:
                     pauseSorting()
 
         mouseOperations()
@@ -197,7 +197,7 @@ def pauseSorting():
                 quit()
 
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_LEFT:
+                if event.key == pygame.K_SPACE:
                     return
 
 def increaseSpeed():
