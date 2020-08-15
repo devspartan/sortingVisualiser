@@ -1,4 +1,3 @@
 # sortingVisualiser
+<img src="https://user-images.githubusercontent.com/45001741/90316595-cee16380-df40-11ea-9b52-ec979d6bf499.gif"/>
 
-![Screenshot from 2020-08-12 22-30-25](https://user-images.githubusercontent.com/45001741/90044658-939a2700-dceb-11ea-93cb-e491684bac4a.png)
-Screenshot of QuickSort.
